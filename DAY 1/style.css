@@ -13,4 +13,6 @@ html, body {
     width: 20%;
     height: 30%;
     background-color: aquamarine;
+    padding-top: 20px;
+    margin-top: 20px;
 }
