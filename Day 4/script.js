@@ -1,6 +1,6 @@
 gsap.to(".box2 h1",{
-    // transform:"translateX(-235%)",
-    x: 250,
+    transform:"translateX(-235%)",
+    // x: 250,
     
     scrollTrigger:{
         trigger:".page2",
@@ -13,3 +13,4 @@ gsap.to(".box2 h1",{
         pin:true
     }
 }); 
+
