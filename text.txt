@@ -1,0 +1,8 @@
+day 1 => basics
+day 2 => landing page 
+day 3 => card
+day 4 => scrolltrigger se ek markar ka use or ek badi heading add
+day 5 => locomotive js
+day 6 => responsive
+day 7 => project ka nav bar -> svg add karna, font add karna
+day 8 => 
